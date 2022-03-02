@@ -1,0 +1,53 @@
+{
+   "nodos":{
+      "1":{
+         "nombre":"Plaza principal",
+         "latitud":-17.7841265,
+         "longitud":-63.1816848,
+         "vertices":[
+            {
+               "destino":2,
+               "precio":4,
+               "trafico":5
+            }
+         ]
+      },
+      "2":{
+         "nombre":"Fexpocruz",
+         "latitud":-17.7736256,
+         "longitud":-63.1940721,
+         "vertices":[
+            {
+               "destino":4,
+               "precio":24,
+               "trafico":6
+            },
+            {
+               "destino":3,
+               "precio":4,
+               "trafico":3
+            }
+         ]
+      },
+      "3":{
+         "nombre":"Parque Urbano",
+         "latitud":-17.7855725,
+         "longitud":-63.1905101,
+         "vertices":[
+            {
+               "destino":4,
+               "precio":2,
+               "trafico":6
+            }
+         ]
+      },
+      "4":{
+         "nombre":"La Ramad",
+         "latitud":-17.7855725,
+         "longitud":-63.1905101,
+         "vertices":[
+            
+         ]
+      }
+   }
+}

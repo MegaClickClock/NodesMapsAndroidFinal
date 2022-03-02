@@ -1,0 +1,2749 @@
+{
+  "nodos": {
+    "A01": {
+      "nombre": "4to anillo Av.Cristo Redentor",
+      "latitud": -17.749977,
+      "longitud": -63.175340,
+      "vertices": [
+        {
+          "destino": "A02",
+          "precio": 4,
+          "trafico": 6
+        },
+        {
+          "destino": "A28",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B01",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "A02": {
+      "nombre": "4to anillo Av.Beni",
+      "latitud": -17.750865,
+      "longitud": -63.169195,
+      "vertices": [
+        {
+          "destino": "A01",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A03",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B02",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A03": {
+      "nombre": "4to anillo Av.Alemania",
+      "latitud": -17.751734,
+      "longitud": -63.163713,
+      "vertices": [
+        {
+          "destino": "A02",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A04",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B03",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A04": {
+      "nombre": "4to anillo Av.Mutualista",
+      "latitud": -17.756608,
+      "longitud": -63.154797,
+      "vertices": [
+        {
+          "destino": "A03",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A05",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B04",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A05": {
+      "nombre": "4to anillo Av.Paragua",
+      "latitud": -17.765184,
+      "longitud": -63.148779,
+      "vertices": [
+        {
+          "destino": "A04",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A06",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B05",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A06": {
+      "nombre": "4to anillo Av guapay",
+      "latitud": -17.775497,
+      "longitud": -63.147000,
+      "vertices": [
+        {
+          "destino": "A05",
+          "precio": 4,
+          "trafico":1
+        },
+        {
+          "destino": "A07",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B06",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A07": {
+      "nombre": "4to anillo Av. Virgen de Cotoca",
+      "latitud": -17.779451,
+      "longitud": -63.147385,
+      "vertices": [
+        {
+          "destino": "A06",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A08",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B07",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A08": {
+      "nombre": "4to anillo Av.Brasil",
+      "latitud": -17.785738,
+      "longitud": -63.148192,
+      "vertices": [
+        {
+          "destino": "A07",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A09",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B08",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "A09": {
+      "nombre": "4to anillo Av.Cumavi",
+      "latitud": -17.789670,
+      "longitud": -63.148227,
+      "vertices": [
+        {
+          "destino": "A08",
+          "precio": 4,
+          "trafico": 2
+        },
+        {
+          "destino": "A10",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "A10": {
+      "nombre": "4to anillo Av.3 pasos al frente",
+      "latitud": -17.798311,
+      "longitud": -63.149893,
+      "vertices": [
+        {
+          "destino": "A09",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A11",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B09",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "A11": {
+      "nombre": "4to anillo Av.Adolfo Roman Hijo Radial 10",
+      "latitud": -17.805712,
+      "longitud": -63.154109,
+      "vertices": [
+        {
+          "destino": "A10",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A12",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B10",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A12": {
+      "nombre": "4to anillo Av.San Aurelio",
+      "latitud": -17.810833,
+      "longitud": -63.161267,
+      "vertices": [
+        {
+          "destino": "A11",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A13",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B11",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "A13": {
+      "nombre": "4to anillo Av.Radial 12",
+      "latitud": -17.815995,
+      "longitud": -63.166780,
+      "vertices": [
+        {
+          "destino": "A12",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A14",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B12",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "A14": {
+      "nombre": "4to anillo Av.Radial 13",
+      "latitud": -17.821855,
+      "longitud": -63.176920,
+      "vertices": [
+        {
+          "destino": "A13",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A15",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B13",
+          "precio": 4,
+          "trafico": 1
+        }
+
+      ]
+    },
+    "A15": {
+      "nombre": "4to anillo Av.Santos Dumont",
+      "latitud": -17.822442,
+      "longitud": -63.184293,
+      "vertices": [
+        {
+          "destino": "A14",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A16",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B14",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A16": {
+      "nombre": "4to anillo Av.Jose Benjamin Burela Justiniano",
+      "latitud": -17.821884,
+      "longitud": -63.189185,
+      "vertices": [
+        {
+          "destino": "A15",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "A17",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B15",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A17": {
+      "nombre": "4to anillo Avenue Radial",
+      "latitud": -17.817909,
+      "longitud": -63.200218,
+      "vertices": [
+        {
+          "destino": "A16",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A18",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B16",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A18": {
+      "nombre": "4to anillo Av. Doble via La Guardia",
+      "latitud": -17.811722,
+      "longitud": -63.208162,
+      "vertices": [
+        {
+          "destino": "A17",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A19",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B17",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "A19": {
+      "nombre": "4to anillo Av. Pirai",
+      "latitud": -17.797407,
+      "longitud": -63.215969,
+      "vertices": [
+        {
+          "destino": "A18",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A20",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B18",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A20": {
+      "nombre": "4to anillo Av.El Palmar",
+      "latitud": -17.791849,
+      "longitud": -63.216636,
+      "vertices": [
+        {
+          "destino": "A19",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A21",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B18",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A21": {
+      "nombre": "4to anillo Av. Roca y Coronado",
+      "latitud": -17.785970,
+      "longitud": -63.216635,
+      "vertices": [
+        {
+          "destino": "A20",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A22",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B20",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A22": {
+      "nombre": "4to anillo Av. Radial 21",
+      "latitud": -17.777702,
+      "longitud": -63.216228,
+      "vertices": [
+        {
+          "destino": "A21",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A23",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B21",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A23": {
+      "nombre": "4to anillo Av. Bush",
+      "latitud": -17.771103,
+      "longitud": -63.210619,
+      "vertices": [
+        {
+          "destino": "A22",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A24",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B22",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A24": {
+      "nombre": "4to anillo Av. Radial 23",
+      "latitud": -17.765822,
+      "longitud": -63.205521,
+      "vertices": [
+        {
+          "destino": "A23",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A25",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B23",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A25": {
+      "nombre": "4to anillo Av.San Martin",
+      "latitud": -17.757015,
+      "longitud": -63.200969,
+      "vertices": [
+        {
+          "destino": "A24",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A26",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B24",
+          "precio": 4,
+          "trafico": 3
+        }
+      ]
+    },
+    "A26": {
+      "nombre": "4to anillo Av. Radial 25 la salle",
+      "latitud": -17.751791,
+      "longitud": -63.191642,
+      "vertices": [
+        {
+          "destino": "A25",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A27",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B25",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A27": {
+      "nombre": "4to anillo Av.Radial 26",
+      "latitud": -17.750715,
+      "longitud": -63.186952,
+      "vertices": [
+        {
+          "destino": "A26",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A28",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B26",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "A28": {
+      "nombre": "4to anillo Av.Radial 27",
+      "latitud": -17.749722,
+      "longitud": -63.180747,
+      "vertices": [
+        {
+          "destino": "A27",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "A01",
+          "precio": 4,
+          "trafico":1
+        },
+        {
+          "destino": "B27",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "B01": {
+      "nombre": "3er anillo externo Av. Cristo Redentor",
+      "latitud": -17.757992,
+      "longitud": -63.178386,
+      "vertices": [
+        {
+          "destino": "A01",
+          "precio": 4,
+          "trafico": 2
+        },
+        {
+          "destino": "B02",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B27",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C0",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B02": {
+      "nombre": "3er anillo externo Av. Beni",
+      "latitud": -17.758104,
+      "longitud": -63.173887,
+      "vertices": [
+        {
+          "destino": "A02",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B01",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B03",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C01",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B03": {
+      "nombre": "3er anillo externo Av. Alemania",
+      "latitud": -17.759396,
+      "longitud": -63.167052,
+      "vertices": [
+        {
+          "destino": "A03",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B02",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B04",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C03",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B04": {
+      "nombre": "3er anillo externo Av.Mutalista",
+      "latitud": -17.763566,
+      "longitud": -63.159909,
+      "vertices": [
+        {
+          "destino": "A04",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B03",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B05",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C04",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B05": {
+      "nombre": "3er anillo externo Av. Paragua",
+      "latitud": -17.769796,
+      "longitud": -63.155343,
+      "vertices": [
+        {
+          "destino": "A05",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B04",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B06",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C05",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B06": {
+      "nombre": "3er anillo externo Av.Guapay",
+      "latitud": -17.776338,
+      "longitud": -63.153508,
+      "vertices": [
+        {
+          "destino": "A06",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B05",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B07",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C06",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B07": {
+      "nombre": "3er anillo externo Av.Virgen de Cotoca",
+      "latitud": -17.781046,
+      "longitud": -63.153069,
+      "vertices": [
+        {
+          "destino": "A07",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B06",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B08",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C07",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B08": {
+      "nombre": "3er anillo externo Av.Brasil",
+      "latitud": -17.7856553,
+      "longitud": -63.1527741,
+      "vertices": [
+        {
+          "destino": "A08",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B07",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B09",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C08",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B09": {
+      "nombre": "3er anillo externo Av. Tres pasos al Frente",
+      "latitud": -17.7957390,
+      "longitud": -63.1569230,
+      "vertices": [
+        {
+          "destino": "A10",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B08",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B10",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C09",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B10": {
+      "nombre": "3er anillo externo Av.Adolfo Roman Hijo",
+      "latitud": -17.802176,
+      "longitud": -63.158987,
+      "vertices": [
+        {
+          "destino": "A11",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B09",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B11",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C10",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B11": {
+      "nombre": "3er anillo externo Av.san Aurelio",
+      "latitud": -17.805875,
+      "longitud": -63.164568,
+      "vertices": [
+        {
+          "destino": "A12",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B10",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B12",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C11",
+          "precio":4,
+          "trafico":1
+        }
+      ]
+    },
+    "B12": {
+      "nombre": "3er anillo externo Av.Radial 12",
+      "latitud": -17.809510,
+      "longitud": -63.171739,
+      "vertices": [
+        {
+          "destino": "A13",
+          "precio": 4,
+          "trafico":1
+        },
+        {
+          "destino": "B11",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B13",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C12",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B13": {
+      "nombre": "3er anillo externo Av.Radial 13",
+      "latitud": -17.812424,
+      "longitud": -63.177657,
+      "vertices": [
+        {
+          "destino": "A14",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B12",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B15",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C13",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B14": {
+      "nombre": "3er anillo externo Av.Santos Dumont",
+      "latitud": -17.814259,
+      "longitud": -63.183009,
+      "vertices": [
+        {
+          "destino": "A15",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B13",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B15",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C14",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B15": {
+      "nombre": "3er anillo externo Av.Jose Benjamin Burela J",
+      "latitud": -17.812702,
+      "longitud": -63.190193,
+      "vertices": [
+        {
+          "destino": "A16",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B14",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B16",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C15",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B16": {
+      "nombre": "3er anillo externo avuene radial",
+      "latitud": -17.810473,
+      "longitud": -63.194919,
+      "vertices": [
+        {
+          "destino": "A17",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B15",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B17",
+          "precio": 4,
+          "trafico": 1
+        }
+      ]
+    },
+    "B17": {
+      "nombre": "3er anillo externo Av. Doble via La guardia",
+      "latitud": -17.7855725,
+      "longitud": -63.1905101,
+      "vertices": [
+        {
+          "destino": "A18",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B16",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B18",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C16",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B18": {
+      "nombre": "3er anillo externo Av. Pirai",
+      "latitud": -17.7951899,
+      "longitud": -63.2053643,
+      "vertices": [
+        {
+          "destino": "A19",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B17",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B19",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C17",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B19": {
+      "nombre": "3er anillo externo Av. El palmar",
+      "latitud": -17.790301,
+      "longitud": -63.206719,
+      "vertices": [
+        {
+          "destino": "A20",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B18",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B20",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C18",
+          "precio":1,
+          "trafico":1
+        }
+      ]
+    },
+    "B20": {
+      "nombre": "3er anillo externo Av. Roca y Coronado",
+      "latitud": -17.785473,
+      "longitud": -63.206414,
+      "vertices": [
+        {
+          "destino": "A21",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B19",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B21",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C19",
+          "precio":1,
+          "trafico":1
+        }
+      ]
+    },
+    "B21": {
+      "nombre": "3er anillo externo Av. Radial 21",
+      "latitud": -17.777564,
+      "longitud": -63.205158,
+      "vertices": [
+        {
+          "destino": "A22",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B20",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B22",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C20",
+          "precio":1,
+          "trafico":1
+        }
+      ]
+    },
+    "B22": {
+      "nombre": "3er anillo externo Av. Bush",
+      "latitud": -17.772102,
+      "longitud": -63.204290,
+      "vertices": [
+        {
+          "destino": "A23",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B21",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B23",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C21",
+          "precio":1,
+          "trafico":1
+        }
+      ]
+    },
+    "B23": {
+      "nombre": "3er anillo externo Av. Radial 23",
+      "latitud": -17.768134,
+      "longitud": -63.203245,
+      "vertices": [
+        {
+          "destino": "A24",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "B22",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B24",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C22",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B24": {
+      "nombre": "3er anillo externo Av. San Martin",
+      "latitud": -17.763345,
+      "longitud": -63.196791,
+      "vertices": [
+        {
+          "destino": "A25",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B23",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B25",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C23",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B25": {
+      "nombre": "3er anillo externo Av. Radial 25 la salle",
+      "latitud": -17.760306,
+      "longitud": -63.191466,
+      "vertices": [
+        {
+          "destino": "A26",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B24",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B26",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C24",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B26": {
+      "nombre": "3er anillo externo Av. Radial 26",
+      "latitud": -17.759736,
+      "longitud": -63.188352,
+      "vertices": [
+        {
+          "destino": "A27",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B25",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B27",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C25",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "B27": {
+      "nombre": "3er anillo externo Av. Radial 27",
+      "latitud": -17.758278,
+      "longitud": -63.182337,
+      "vertices": [
+        {
+          "destino": "A28",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B26",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "B01",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C26",
+          "precio": 1,
+          "trafico": 1
+        }
+      ]
+    },
+    "C01": {
+      "nombre": "3er anillo interno Av.Cristo Redentor",
+      "latitud": -17.759620,
+      "longitud": -63.179105,
+      "vertices": [
+        {
+          "destino": "B01",
+          "precio":1,
+          "trafico":1
+        },
+        {
+          "destino": "C02",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C25",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D01",
+          "precio":4,
+          "trafico":2
+        }
+      ]
+    },
+    "C02": {
+      "nombre": "3er anillo interno Av. Beni",
+      "latitud": -17.759611,
+      "longitud": -63.174889,
+      "vertices": [
+        {
+          "destino": "B02",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C01",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C03",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D02",
+          "precio": 4,
+          "trafico": 2
+        }
+      ]
+    },
+    "C03": {
+      "nombre": "3er anillo interno Av. Alemania",
+      "latitud": -17.760831,
+      "longitud": -63.167536,
+      "vertices": [
+        {
+          "destino": "B03",
+          "precio":1,
+          "trafico":1
+        },
+        {
+          "destino": "C02",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C04",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D03",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C04": {
+      "nombre": "3er anillo interno Av.Mutualista",
+      "latitud": -17.764724,
+      "longitud": -63.160894,
+      "vertices": [
+        {
+          "destino": "B04",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C03",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C05",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D04",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C05": {
+      "nombre": "3er anillo interno Av. Paragua",
+      "latitud": -17.770702,
+      "longitud": -63.156680,
+      "vertices": [
+        {
+          "destino": "B05",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C04",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C06",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D05",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C06": {
+      "nombre": "3er anillo interno Av.Guapay",
+      "latitud": -17.776475,
+      "longitud": -63.154972,
+      "vertices": [
+        {
+          "destino": "B06",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C05",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C07",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D06",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C07": {
+      "nombre": "3er anillo interno Av. Virgen de Cotoca",
+      "latitud": -17.781327,
+      "longitud": -63.154645,
+      "vertices": [
+        {
+          "destino": "B07",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C06",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C08",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D07",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C08": {
+      "nombre": "3er anillo interno Av. Brasil",
+      "latitud": -17.784712,
+      "longitud": -63.157761,
+      "vertices": [
+        {
+          "destino": "B08",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C07",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C09",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D08",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C09": {
+      "nombre": "3er anillo interno Av. 3 Pasos al Frente",
+      "latitud": -17.794798,
+      "longitud": -63.160427,
+      "vertices": [
+        {
+          "destino": "B09",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C07",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C10",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D09",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C10": {
+      "nombre": "3er anillo interno Av.Adolfo Roman Hijo",
+      "latitud": -17.800728,
+      "longitud": -63.160888,
+      "vertices": [
+        {
+          "destino": "B10",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C09",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C11",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "C11": {
+      "nombre": "3er anillo interno Av. San Aurelio",
+      "latitud": -17.804486,
+      "longitud": -63.165355,
+      "vertices": [
+        {
+          "destino": "B11",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C10",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C12",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D10",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C12": {
+      "nombre": "3er anillo interno Av.Radial 12",
+      "latitud": -17.807409,
+      "longitud": -63.172136,
+      "vertices": [
+        {
+          "destino": "B12",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C11",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C13",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D11",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C13": {
+      "nombre": "3er anillo interno Av.Radial 13",
+      "latitud": -17.810648,
+      "longitud": -63.177420,
+      "vertices": [
+        {
+          "destino": "B13",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C12",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C14",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "C14": {
+      "nombre": "3er anillo interno Av. Santos Dumont",
+      "latitud": -17.812390,
+      "longitud": -63.182334,
+      "vertices": [
+        {
+          "destino": "B14",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C13",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C15",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D12",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C15": {
+      "nombre": "3er anillo interno Av.Jose Benjamin Burela",
+      "latitud": -17.810969,
+      "longitud": -63.190277,
+      "vertices": [
+        {
+          "destino": "B15",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C14",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C16",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "C16": {
+      "nombre": "3er anillo interno Av. Doble via La Guardia Grigota",
+      "latitud": -17.803990,
+      "longitud": -63.199239,
+      "vertices": [
+        {
+          "destino": "B17",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C15",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C17",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D13",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C17": {
+      "nombre": "3er anillo interno Av. Pirai",
+      "latitud": -17.794363,
+      "longitud": -63.204229,
+      "vertices": [
+        {
+          "destino": "B18",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C16",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C18",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D14",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C18": {
+      "nombre": "3er anillo interno Av. El palmar",
+      "latitud": -17.790028,
+      "longitud": -63.205041,
+      "vertices": [
+        {
+          "destino": "B19",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C17",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C19",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "C19": {
+      "nombre": "3er anillo interno Av. Roca y Coronado",
+      "latitud": -17.785369,
+      "longitud": -63.204673,
+      "vertices": [
+        {
+          "destino": "B20",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C18",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C20",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D15",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C20": {
+      "nombre": "3er anillo interno Av. Radial 21 Hernando Sanabria",
+      "latitud": -17.777616,
+      "longitud": -63.203582,
+      "vertices": [
+        {
+          "destino": "B21",
+          "precio":4,
+          "trafico":1
+        },
+        {
+          "destino": "C19",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C21",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D16",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C21": {
+      "nombre": "3er anillo interno Av. Bush",
+      "latitud": -17.772228,
+      "longitud": -63.202681,
+      "vertices": [
+        {
+          "destino": "B22",
+          "precio": 4,
+          "trafico": 1
+        },
+        {
+          "destino": "C20",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C22",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D17",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C22": {
+      "nombre": "3er anillo interno Av. Radial 23",
+      "latitud": -17.769463,
+      "longitud": -63.201659,
+      "vertices": [
+        {
+          "destino": "B23",
+          "precio":2,
+          "trafico":1
+        },
+        {
+          "destino": "C21",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C23",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "C23": {
+      "nombre": "3er anillo interno Av. San Martin",
+      "latitud": -17.764694,
+      "longitud": -63.195933,
+      "vertices": [
+        {
+          "destino": "B24",
+          "precio":3,
+          "trafico":3
+        },
+        {
+          "destino": "C22",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C24",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "C24": {
+      "nombre": "3er anillo interno Av.radial 25 la Salle",
+      "latitud": -17.762321,
+      "longitud": -63.191459,
+      "vertices": [
+        {
+          "destino": "B25",
+          "precio": 2,
+          "trafico": 1
+        },
+        {
+          "destino": "C23",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C25",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D18",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C25": {
+      "nombre": "3er anillo interno Av. Radial 26",
+      "latitud": -17.760883,
+      "longitud": -63.187372,
+      "vertices": [
+        {
+          "destino": "B26",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "C24",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C26",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D19",
+          "precio": 3,
+          "trafico": 2
+        }
+      ]
+    },
+    "C26": {
+      "nombre": "3er anillo interno Av. Radial 27",
+      "latitud": -17.759917,
+      "longitud": -63.182901,
+      "vertices": [
+        {
+          "destino": "B27",
+          "precio":2,
+          "trafico":1
+        },
+        {
+          "destino": "C25",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "C27",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "D01": {
+      "nombre": "2do anillo Av. Cristo Redentor",
+      "latitud": -17.770530,
+      "longitud": -63.182500,
+      "vertices": [
+        {
+          "destino": "C01",
+          "precio":4,
+          "trafico":2
+        },
+        {
+          "destino": "D02",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D19",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "E01",
+          "precio":2,
+          "trafico":3
+        }
+      ]
+    },
+    "D02": {
+      "nombre": "2do anillo Av. Beni",
+      "latitud": -17.770371,
+      "longitud": -63.178940,
+      "vertices": [
+        {
+          "destino": "C02",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D01",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "D03",
+          "precio":3,
+          "trafico":2
+        }
+      ]
+    },
+    "D03": {
+      "nombre": "2do anillo Av. Alemania",
+      "latitud": -17.770282,
+      "longitud": -63.171267,
+      "vertices": [
+        {
+          "destino": "C03",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D02",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "D04",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "E02",
+          "precio":2,
+          "trafico":2
+        }
+      ]
+    },
+    "D04": {
+      "nombre": "2do anillo Av. Mutualista",
+      "latitud": -17.771498,
+      "longitud": -63.168081,
+      "vertices": [
+        {
+          "destino": "C04",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D03",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D05",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "D05": {
+      "nombre": "2do anillo Av. Paragua",
+      "latitud": -17.774159,
+      "longitud": -63.166044,
+      "vertices": [
+        {
+          "destino": "C05",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D04",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D06",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E03",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D06": {
+      "nombre": "2do anillo Av.Guapay",
+      "latitud": -17.778208,
+      "longitud": -63.165045,
+      "vertices": [
+        {
+          "destino": "C06",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D05",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D07",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "D07": {
+      "nombre": "2do anillo Av. Virgen de Cotoca",
+      "latitud": -17.782237,
+      "longitud": -63.164590,
+      "vertices": [
+        {
+          "destino": "C07",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D06",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D08",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E04",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D08": {
+      "nombre": "2do anillo Av. Brazil",
+      "latitud": -17.787208,
+      "longitud": -63.164372,
+      "vertices": [
+        {
+          "destino": "C08",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D07",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D09",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E05",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D09": {
+      "nombre": "2do anillo Av. 3 pasos al Frente",
+      "latitud": -17.794789,
+      "longitud": -63.166248,
+      "vertices": [
+        {
+          "destino": "C09",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "D08",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D10",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "D10": {
+      "nombre": "2do anillo Av. San Aurelio",
+      "latitud": -17.798728,
+      "longitud": -63.168935,
+      "vertices": [
+        {
+          "destino": "C11",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D09",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D11",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "D11": {
+      "nombre": "2do anillo Av. Radial 12 La barranca",
+      "latitud": -17.798134,
+      "longitud": -63.175418,
+      "vertices": [
+        {
+          "destino": "C12",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D10",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "D12",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E06",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D12": {
+      "nombre": "2do anillo Av. Santos Dumont",
+      "latitud": -17.799427,
+      "longitud": -63.180259,
+      "vertices": [
+        {
+          "destino": "C14",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D11",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D13",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E07",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D13": {
+      "nombre": "2do anillo Av.Doble via La Guardia Grigota",
+      "latitud": -17.798060,
+      "longitud": -63.192616,
+      "vertices": [
+        {
+          "destino": "C16",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D12",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D14",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E08",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D14": {
+      "nombre": "2do anillo Av. Pirai",
+      "latitud": -17.790158,
+      "longitud": -63.194494,
+      "vertices": [
+        {
+          "destino": "C17",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D13",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D15",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E09",
+          "precio": 2,
+          "trafico": 1
+        }
+      ]
+    },
+    "D15": {
+      "nombre": "2do anillo Av. Roca y Coronado a Landivar",
+      "latitud": -17.7849026,
+      "longitud": -63.1950143,
+      "vertices": [
+        {
+          "destino": "C20",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D14",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D16",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E10",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D16": {
+      "nombre": "2do anillo Av.Hernado Sabria Centenario",
+      "latitud": -17.7793442,
+      "longitud": -63.1936238,
+      "vertices": [
+        {
+          "destino": "C20",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "D15",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D17",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E11",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D17": {
+      "nombre": "2do anillo Av. Bush",
+      "latitud": -17.773583,
+      "longitud": -63.191596,
+      "vertices": [
+        {
+          "destino": "C21",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D16",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D18",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "E12",
+          "precio": 2,
+          "trafico": 2
+        }
+      ]
+    },
+    "D18": {
+      "nombre": "2do anillo Av. La salle",
+      "latitud": -17.771979,
+      "longitud": -63.188388,
+      "vertices": [
+        {
+          "destino": "C24",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "D17",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D19",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "D19": {
+      "nombre": "2do anillo Av. Radial 26 a libertad",
+      "latitud": -17.770878,
+      "longitud": -63.184919,
+      "vertices": [
+        {
+          "destino": "C25",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D18",
+          "precio": 3,
+          "trafico": 1
+        },
+        {
+          "destino": "D01",
+          "precio": 3,
+          "trafico": 1
+        }
+      ]
+    },
+    "E01": {
+      "nombre": "1er anillo Av. Monse�or Ribero a cristo redentor",
+      "latitud": -17.774923,
+      "longitud": -63.182222,
+      "vertices": [
+        {
+          "destino": "D01",
+          "precio": 4,
+          "trafico": 3
+        },
+        {
+          "destino": "E02",
+          "precio": 2,
+          "trafico": 3
+        },
+        {
+          "destino": "E12",
+          "precio": 2,
+          "trafico": 3
+        }
+      ]
+    },
+    "E02": {
+      "nombre": "1er anillo Av. Trinidad",
+      "latitud": -17.774837,
+      "longitud": -63.176370,
+      "vertices": [
+        {
+          "destino": "D03",
+          "precio": 4,
+          "trafico": 2
+        },
+        {
+          "destino": "E01",
+          "precio": 2,
+          "trafico": 3
+        },
+        {
+          "destino": "E03",
+          "precio": 2,
+          "trafico": 3
+        }
+      ]
+    },
+    "E03": {
+      "nombre": "1er anillo Av. Suarez arana",
+      "latitud": -17.778137,
+      "longitud": -63.173021,
+      "vertices": [
+        {
+          "destino": "D05",
+          "precio": 3,
+          "trafico": 2
+        },
+        {
+          "destino": "E02",
+          "precio": 2,
+          "trafico": 3
+        },
+        {
+          "destino": "E04",
+          "precio": 2,
+          "trafico": 3
+        }
+      ]
+    },
+    "E04": {
+      "nombre": "1er anillo Av. Melchor pinto",
+      "latitud": -17.782963,
+      "longitud": -63.172169,
+      "vertices": [
+        {
+          "destino": "D07",
+          "precio": 4,
+          "trafico": 2
+        },
+        {
+          "destino": "E03",
+          "precio": 2,
+          "trafico": 3
+        },
+        {
+          "destino": "E05",
+          "precio":2,
+          "trafico":3
+        }
+      ]
+    },
+    "E05": {
+      "nombre": "1er anillo Av. Brasil",
+      "latitud": -17.785520,
+      "longitud": -63.171815,
+      "vertices": [
+        {
+          "destino": "D08",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "E04",
+          "precio":2,
+          "trafico":2
+        },
+        {
+          "destino": "E06",
+          "precio":2,
+          "trafico":2
+        }
+      ]
+    },
+    "E06": {
+      "nombre": "1er anillo Av. Argentina",
+      "latitud": -17.791243,
+      "longitud": -63.173101,
+      "vertices": [
+        {
+          "destino": "D11",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "E05",
+          "precio":2,
+          "trafico":2
+        },
+        {
+          "destino": "E07",
+          "precio":2,
+          "trafico":2
+        }
+      ]
+    },
+    "E07": {
+      "nombre": "1er anillo av. Velarde",
+      "latitud": -17.792447,
+      "longitud": -63.181376,
+      "vertices": [
+        {
+          "destino": "D12",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "E06",
+          "precio":2,
+          "trafico":2
+        },
+        {
+          "destino": "E08",
+          "precio":2,
+          "trafico":2
+        }
+      ]
+    },
+    "E08": {
+      "nombre": "1er anillo Av. Grigota",
+      "latitud": -17.793328,
+      "longitud": -63.187009,
+      "vertices": [
+        {
+          "destino": "D13",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "E07",
+          "precio":2,
+          "trafico":2
+        },
+        {
+          "destino": "E09",
+          "precio":2,
+          "trafico":2
+        }
+      ]
+    },
+    "E09": {
+      "nombre": "1er anillo Av. Mariano Saucedo",
+      "latitud": -17.788495,
+      "longitud": -63.188095,
+      "vertices": [
+        {
+          "destino": "D14",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "E08",
+          "precio":2,
+          "trafico":2
+        },
+        {
+          "destino": "E10",
+          "precio":2,
+          "trafico":2
+        }
+      ]
+    },
+    "E10": {
+      "nombre": "1er anillo Av. Landivar",
+      "latitud": -17.784444,
+      "longitud": -63.188988,
+      "vertices": [
+        {
+          "destino": "D15",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "E09",
+          "precio": 2,
+          "trafico": 3
+        },
+        {
+          "destino": "E11",
+          "precio": 2,
+          "trafico": 3
+        }
+      ]
+    },
+    "E11": {
+      "nombre": "1er anillo Av. Centenario",
+      "latitud": -17.780274,
+      "longitud": -63.188994,
+      "vertices": [
+        {
+          "destino": "D16",
+          "precio":3,
+          "trafico":2
+        },
+        {
+          "destino": "E10",
+          "precio":2,
+          "trafico":3
+        },
+        {
+          "destino": "E12",
+          "precio":2,
+          "trafico":3
+        }
+      ]
+    },
+    "E12": {
+      "nombre": "1er anillo Av. Bush c/landivar",
+      "latitud": -17.774647,
+      "longitud": -63.183436,
+      "vertices": [
+        {
+          "destino": "D17",
+          "precio":3,
+          "trafico":1
+        },
+        {
+          "destino": "E11",
+          "precio":2,
+          "trafico":3
+        },
+        {
+          "destino": "E01",
+          "precio":2,
+          "trafico":3
+        }
+      ]
+    }
+  }
+}
